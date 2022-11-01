@@ -56,6 +56,7 @@ public class ViktoriiaHukTest {
         Assert.assertEquals(actualResult, expectedResult);
 
         driver.quit();
+
     }
 
 //    @Test
